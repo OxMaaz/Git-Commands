@@ -1,1 +1,12 @@
-hey
+objects folder represent commits
+index folder represents staging area
+
+
+
+
+
+Commands
+git init
+git status 
+git add "hello.txt"
+git commit -m "first"
