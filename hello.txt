@@ -8,5 +8,15 @@ index folder represents staging area
 Commands
 git init
 git status 
-git add "hello.txt"
+git add "hello.txt"  //stage
 git commit -m "first"
+git add ./    //add all files
+git reset HEAD -- hello.txt  //unstage
+git log  //get logs
+git branch //check current branch
+git branch branch1
+git checkout
+
+
+Branch1
+
