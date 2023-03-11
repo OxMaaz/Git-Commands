@@ -16,8 +16,8 @@ git log  //get logs
 get log --all  //get all logs
 git branch //check current branch
 git branch branch1  //make branch
-git checkout
-git merge branch1 //put the branch1 in the existing one
+git checkout branch1 //put u into branch1
+git merge branch1 //put the branch1 in the master but u should be in master branch
 git branch -d branch1 //delete the branch
 git remote origin ......
 git push origin master
