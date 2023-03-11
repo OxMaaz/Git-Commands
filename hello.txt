@@ -9,9 +9,9 @@ Commands
 git init
 git status 
 git add "hello.txt"  //stage
-git commit -m "first"
 git add ./    //add all files
 git reset HEAD -- hello.txt  //unstage
+git commit -m "first"
 git log  //get logs
 get log --all  //get all logs
 git branch //check current branch
