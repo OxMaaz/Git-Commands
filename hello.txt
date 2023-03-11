@@ -15,8 +15,13 @@ git reset HEAD -- hello.txt  //unstage
 git log  //get logs
 get log --all  //get all logs
 git branch //check current branch
-git branch branch1
+git branch branch1  //make branch
 git checkout
+git merge branch1 //put the branch1 in the existing one
+git branch -d branch1 //delete the branch
+git remote origin ......
+git push origin master
+
 
 
 Branch1
